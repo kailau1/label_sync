@@ -1,4 +1,4 @@
-def checkDiff(current, desired):
+def check_diff(current, desired):
     desired_set = set(desired)
     current_set = set(current)
 
